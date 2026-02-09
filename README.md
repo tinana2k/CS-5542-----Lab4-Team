@@ -1,5 +1,5 @@
 # CS-5542--- Lab4-Team Project
 
 ## Team Members:
-- [@ben-blake](https://github.com/ben-blake)
-- [@tinana2k](https://github.com/tinana2k)
+- Ben Blake - [@ben-blake](https://github.com/ben-blake)
+- Tina (Quynh) Nguyen - [@tinana2k](https://github.com/tinana2k)
