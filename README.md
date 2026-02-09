@@ -1,4 +1,4 @@
-# CS-5542-----Lab4-Team
+# CS-5542--- Lab4-Team Project
 
 ## Team Members:
 - [@ben-blake](https://github.com/ben-blake)
